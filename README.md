@@ -113,12 +113,15 @@ The wheel was very similar to tire. I mada a shape and revolved it. One small de
 
 ### Description
 
-
+For the last few parts we had to make three simple parts: the axel, the coller, and two bearings.
 
 ### Evidence
+
+[The collar and axel in Onshape](https://cvilleschools.onshape.com/documents/211e198a643c2f34a7314a73/w/26859521983e521178896a1f/e/ed291e7639de6b90bff186a9)
+[The bearing in Onshape](https://cvilleschools.onshape.com/documents/7f9ca0402ff4b7ea9dc974e9/w/160ecb198da916d81e8e1188/e/92349d33f22f97fb224a2df3)
 
 ### Image
 
 ### Reflection
 
----
+For these last parts, I learned how to create part studios and how I can have assemblies and parts in the same document. This makes it easier to create a whole project in jus one document. Looking back I may have considered doing my entire caaster in just one document.
