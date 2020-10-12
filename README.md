@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Dowels](#DorothyDowels)
 
 ## Base
 
@@ -126,7 +127,7 @@ For the last few parts we had to make three simple parts: the axel, the coller, 
 
 For these last parts, I learned how to create part studios and how I can have assemblies and parts in the same document. This makes it easier to create a whole project in jus one document. Looking back I may have considered doing my entire caaster in just one document.
 
-## Dorothy Dowel Pins
+## DorothyDowels
 
 ### Description
 
