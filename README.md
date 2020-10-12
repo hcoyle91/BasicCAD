@@ -125,3 +125,22 @@ For the last few parts we had to make three simple parts: the axel, the coller, 
 ### Reflection
 
 For these last parts, I learned how to create part studios and how I can have assemblies and parts in the same document. This makes it easier to create a whole project in jus one document. Looking back I may have considered doing my entire caaster in just one document.
+
+## Dorothy Dowel Pins
+
+### Description
+
+For this part we had to make a pin that had 32 differnet configurations:
+- 4 length variations
+- 4 diameter variations
+- Chamfer and no chamfer
+
+### Evidence
+
+[The Dowels in Onshape](https://cvilleschools.onshape.com/documents/27f2712f8e6d37d73f3ee786/w/1c05f774ced416f2a1a4f728/e/0d1a443ce11591a56d3f07bb?configuration=List_Tt29EVM8pZ2JP2%3D_2_inch%3BList_W27A3tRgfpyvKl%3DDefault%3BList_WeUTVxF4ORxrq9%3DDefault)
+
+### Image
+
+### Reflection
+
+I learned many things while making this part. I first learned that if you write "in" onshape will automaticaally cpnvert it into millimeters from inches. I also learned a new shortcut: if you press w, onshape allows you to make a box that it will then zoom in on. Lastly I learned configurations in onshape. I don't remember configurations being this easy in solid works. All you have to do is go to the configurations tab, make a new input, create the names for each configuration and select the feature you would like to configure. If I want to configure a feature itself I just select the supress option when editing that feature.
