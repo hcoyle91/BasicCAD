@@ -191,7 +191,7 @@ I had tot complete the onshape tutorial for assmeblies.I put together a soap dis
 
 ### Image
 
-
+<img src="images/Assembly.png" alt="Onshape tutorial assembly" width="150" height="150">
 
 ### Reflection
 
