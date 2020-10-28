@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Final Caster](#Final caster)
 * [Dowels](#DorothyDowels)
 
 ## Base
