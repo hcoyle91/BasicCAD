@@ -152,7 +152,7 @@ For the sub assembly, I had to assemble the wheel, tire, axel and bearings
 
 ### Image
 
-
+<img src="images/Sub-assembly.png" alt="The Sub assembly" width="150" height="150">
 
 ### Reflection
 
