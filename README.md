@@ -11,7 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
-* [Final Caster](#Final caster)
+* [Final Caster](#Final-Caster)
 * [Dowels](#DorothyDowels)
 
 ## Base
@@ -160,7 +160,7 @@ For this part we had to make a pin that had 32 differnet configurations:
 
 I learned many things while making this part. I first learned that if you write "in" onshape will automaticaally cpnvert it into millimeters from inches. I also learned a new shortcut: if you press w, onshape allows you to make a box that it will then zoom in on. Lastly I learned configurations in onshape. I don't remember configurations being this easy in solid works. All you have to do is go to the configurations tab, make a new input, create the names for each configuration and select the feature you would like to configure. If I want to configure a feature itself I just select the supress option when editing that feature.
 
-## Final Caster
+## Final-Caster
 
 ### Description
 
