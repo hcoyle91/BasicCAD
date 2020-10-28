@@ -53,6 +53,8 @@ The second part for the caster was the mount the mount. We had to make a mount w
 [The mount in Onshape](https://cvilleschools.onshape.com/documents/2fef518b5aaf830d9cfbab37/w/17331e35a59fc1c8ca129f6d/e/3aba9f0734a82aad0104b254)
 ### Image
 
+<img src="images/mount.png" alt="The mount" width="150" height="150">
+
 ### Reflection
 
 The mount was very similar to the base except wedid all of the wholes in one sketch. I also learned how to use construction lines using the shortcut l then c.
@@ -71,6 +73,8 @@ For this part we had to make a forkshaped part that would hold the wheel. Here w
 
 ### Image
 
+<img src="images/fork.png" alt="The fork" width="150" height="150">
+
 ### Reflection
 
 Since there was no easy video tutorialfrom doctor sheilds, I found myself relyingon my learned onshape skills. I learned that fillets are very easy and similartosolidworks. I also learned how to extrude Symmetricly which splits the distance you extrude. This is helpful when trying to keep a part symmetric to anything.
@@ -86,6 +90,8 @@ For this part we made a tire that, in the assembly would surround the wheel. To 
 [The Tire in Onshape](https://cvilleschools.onshape.com/documents/b2e73c1ea2dc3f9974994c48/w/e70be189dc83635dd4dc65a5/e/b66baa6e7864a3833ff3e44e)
 
 ### Image
+
+<img src="images/tire.png" alt="The tire" width="150" height="150">
 
 ### Reflection
 
@@ -105,6 +111,8 @@ For this part I had to make a wheel with spokes, that fit inside the tore and in
 
 ### Image
 
+<img src="images/wheel.png" alt="The wheel" width="150" height="150">
+
 ### Reflection
 
 The wheel was very similar to tire. I mada a shape and revolved it. One small detail I learned is that when revolving a shape with multiple rectangles, I have to select each one when revolving if I want all of them to revolve. I alsolearned how tolinear pattern in onshape; it is almost exactly like solid works.
@@ -122,6 +130,8 @@ For the last few parts we had to make three simple parts: the axel, the coller, 
 [The bearing in Onshape](https://cvilleschools.onshape.com/documents/7f9ca0402ff4b7ea9dc974e9/w/160ecb198da916d81e8e1188/e/92349d33f22f97fb224a2df3)
 
 ### Image
+
+<img src="images/6-9.png" alt="The parts 6-9" width="150" height="150">
 
 ### Reflection
 
@@ -141,6 +151,9 @@ For this part we had to make a pin that had 32 differnet configurations:
 [The Dowels in Onshape](https://cvilleschools.onshape.com/documents/27f2712f8e6d37d73f3ee786/w/1c05f774ced416f2a1a4f728/e/0d1a443ce11591a56d3f07bb?configuration=List_Tt29EVM8pZ2JP2%3D_2_inch%3BList_W27A3tRgfpyvKl%3DDefault%3BList_WeUTVxF4ORxrq9%3DDefault)
 
 ### Image
+
+<img src="images/dowel1.png" alt="One config of dowels" width="150" height="150">
+<img src="images/dowel2.png" alt="Another config of dowels" width="150" height="150">
 
 ### Reflection
 
