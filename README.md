@@ -153,7 +153,7 @@ For this part we had to make a pin that had 32 differnet configurations:
 ### Image
 
 <img src="images/dowel1.png" alt="One config of dowels" width="150" height="150">
-<img src="images/dowel2.png" alt="Another config of dowels" width="150" height="150">
+<img src="images/Dowel2.png" alt="Another config of dowels" width="150" height="150">
 
 ### Reflection
 
