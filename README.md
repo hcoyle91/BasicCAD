@@ -11,6 +11,7 @@ We are creating a caster.
 * [Tire](#Tire)
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
+* [Sub Assembly](#Sub-assembly)
 * [Final Caster](#Final-Caster)
 * [Dowels](#DorothyDowels)
 * [Onshape Assembly](#Onshape-Assembly)
@@ -138,6 +139,24 @@ For the last few parts we had to make three simple parts: the axel, the coller, 
 ### Reflection
 
 For these last parts, I learned how to create part studios and how I can have assemblies and parts in the same document. This makes it easier to create a whole project in jus one document. Looking back I may have considered doing my entire caaster in just one document.
+
+## Sub-assembly
+
+### Description
+
+For the sub assembly, I had to assemble the wheel, tire, axel and bearings
+
+### Evidence
+
+[Sub assembly in onshape](https://cvilleschools.onshape.com/documents/3c71b1c8dc6046b3baf5dcda/w/874171ecc252d71a603b8af4/e/78f49afc24c1b5ec84a05008)
+
+### Image
+
+
+
+### Reflection
+
+This was my first time using mates in onshape. I realize now that I should have done the onshape tutroial first. I found out how to use basic mates in onshape. By only using one mate connecter to mate to parts it makes it quick and easy.
 
 ## Final-Caster
 
