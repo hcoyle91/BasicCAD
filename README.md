@@ -1,6 +1,6 @@
 # BasicCAD
 
-We are creating a caster.
+All my cad projects and assignments:
 
 ---
 ## Table of Contents
