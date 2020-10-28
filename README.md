@@ -53,7 +53,7 @@ The second part for the caster was the mount the mount. We had to make a mount w
 [The mount in Onshape](https://cvilleschools.onshape.com/documents/2fef518b5aaf830d9cfbab37/w/17331e35a59fc1c8ca129f6d/e/3aba9f0734a82aad0104b254)
 ### Image
 
-<img src="images/mount.png" alt="The mount" width="150" height="150">
+<img src="images/Mount.png" alt="The mount" width="150" height="150">
 
 ### Reflection
 
