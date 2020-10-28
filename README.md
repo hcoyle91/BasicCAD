@@ -158,3 +158,22 @@ For this part we had to make a pin that had 32 differnet configurations:
 ### Reflection
 
 I learned many things while making this part. I first learned that if you write "in" onshape will automaticaally cpnvert it into millimeters from inches. I also learned a new shortcut: if you press w, onshape allows you to make a box that it will then zoom in on. Lastly I learned configurations in onshape. I don't remember configurations being this easy in solid works. All you have to do is go to the configurations tab, make a new input, create the names for each configuration and select the feature you would like to configure. If I want to configure a feature itself I just select the supress option when editing that feature.
+
+## Final Caster
+
+### Description
+
+This is the assmebly for my caster
+
+### Evidence
+
+[Finalcaster in onshape](https://cvilleschools.onshape.com/documents/c8cd670957a4d5f32418fb3a/w/b37ba169bd0be637051f8279/e/1b72c7c41c15e90d2b6a4e44)
+
+### Image
+
+<img src="images/caster.png" alt="The caster" width="150" height="150">
+
+### Reflection
+
+This caster assignment helped me know onshape. I now know the basic onshape tools.Ialso learned assemblie is easier in onshape than solidworks because you only need one connection to lock down a whole part.
+
