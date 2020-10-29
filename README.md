@@ -225,6 +225,7 @@ For this assignment I had to make an assembly of 3 parts:
  - Cube with 4 rods
  - Bracket to hold everything
  - Spinner shaft that rotates with the Cube
+I then had to asseble them in a cool way were they spin together.
  
  ### Evidence
  
