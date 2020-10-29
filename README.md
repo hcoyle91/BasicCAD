@@ -15,6 +15,7 @@ All my cad projects and assignments:
 * [Final Caster](#Final-Caster)
 * [Dowels](#DorothyDowels)
 * [Onshape Assembly](#Onshape-Assembly)
+* [Onshape Challenge](#Onshape-Challenge)
 
 ## Base
 
@@ -216,3 +217,23 @@ I had tot complete the onshape tutorial for assmeblies.I put together a soap dis
 
 This tutorial taught me how the differnet mates worked. I also learned a few shortcuts: You can copy and paste parts in assemblies using command c and v, and you can hit control enter when accepting a mate in order to accept it and create another mate like the other one. 
 
+## Onshape-Challenge
+
+### Description
+
+For this assignment I had to make an assembly of 3 parts:
+ - Cube with 4 rods
+ - Bracket to hold everything
+ - Spinner shaft that rotates with the Cube
+ 
+ ### Evidence
+ 
+ [Challenge in onshape](https://cvilleschools.onshape.com/documents/fe3ad4002b5c8d2cea347829/w/d86e0db2243f06adb99c154f/e/c9e7b6b240d48868f84ea9bf)
+ 
+ ### Image
+ 
+ <img src="images/Onshape-challenge.png" alt="Onshape Challenge" width="150" height="150">
+
+### Reflection
+
+This assignment took some time at the beginning; I could not figure out how to fillet a sketch or extrude a surface of a sketch. After looking around for a bit I realized that there is a special tool in the the sketch tool bar for sketch filet. This is the same on solid works, I just forgot. I also figured out that there is an option for extruding a surface when you hit extrude.
